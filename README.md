@@ -58,6 +58,4 @@ philosopher dies.
 - Philosopher number 1 sits next to philosopher number number_of_philosophers.
 Any other philosopher number N sits between philosopher number N - 1 and philosopher number N + 1.
 
-
 <br>
-
