@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://github.com/hadi14250">
-    <img src="github_gifs/spagheti.gif" alt="philo gif"  width="600" height="400">
+    <img src="github_gifs/philo.gif" alt="philo gif"  width="600" height="400">
   </a>
 
 
