@@ -37,7 +37,7 @@ A project designed to tackle one of the classic synchronization problems in comp
 - Go to root directory and run `make`
 - Run `./philo 5 1000 400  400 5`
 
-The numbers above stand for (ordered respectively) `./philo <<number_of_philosophers>> <<time_to_die>> <<time_to_eat>> <<time_to_sleep>> <<number_of_times_each_philosopher_must_eat]>>`
+The numbers above stand for: <br> `./philo <<number_of_philosophers>> <<time_to_die>> <<time_to_eat>> <<time_to_sleep>> <<number_of_times_each_philosopher_must_eat]>>`
 
 <br>
 
